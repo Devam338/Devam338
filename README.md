@@ -3,6 +3,6 @@
 ![gif](/croppedgifwide.gif)
  
 <div align="center">
-  <strong>Biomedical + Software Engineering @ University of Waterloo</strong><br>
+  <strong>Biomedical + Software Engineering @ University of Waterloo</strong><br> 
 </div>
 <br>
